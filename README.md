@@ -1,4 +1,4 @@
-# ICE HUB V2 - Pass Trainer
+# ICE HUB V2 - Qba
 
 Quarterback Pass Trainer for Roblox Football Games:
 
@@ -34,7 +34,6 @@ This is not an aimbot or exploit. It is a legal client-side visual tool for help
 ---
 
 **Author**: IceCube1214  
-**Contributors**: Gemini refinements
 
 ---
 
